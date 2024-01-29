@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="container">
 <<<<<<< HEAD
-       <h1>deploy react app use cicd action runner toto</h1>
+       <h1>deploy react app use cicd action runner to</h1>
       
 =======
        <h1>deploy react app use ci-cd action runner</h1>
